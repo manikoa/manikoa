@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maniko
 ==============================================================================================================================
 
-Aspiring Software Engineer
+Incoming SWE at Microsoft
 --------------------------
 
 I'm passionate about creating impactful solutions through code.
 
 * 🌍  I'm based in Washington
-* ✉️  You can contact me at [manikoanthony@gmail.com](mailto:manikoanthony@gmail.com)
-* 🧠  I'm learning React, Django, SQL
-* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [maniko@codesavanna.org](mailto:maniko@codesavanna.org)
+* 🧠  I'm learning Mojo, LangChain, and Semantic Kernel 
 * ⚡  I'm secretly Forest Gump ... but don't tell anyone :)
 
 ### Skills
