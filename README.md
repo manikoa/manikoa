@@ -8,7 +8,7 @@ I'm passionate about creating impactful solutions through code.
 
 * 🌍  I'm based in Washington
 * ✉️  You can contact me at [maniko@codesavanna.org](mailto:maniko@codesavanna.org)
-* 🧠  I'm learning Mojo, LangChain, and Semantic Kernel 
+* 🧠  I'm currently exploriing Agentic AI using LangChain and LangGraph
 * ⚡  I'm secretly Forest Gump ... but don't tell anyone :)
 
 ### Skills
