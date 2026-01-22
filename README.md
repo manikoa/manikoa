@@ -7,7 +7,7 @@ Incoming SWE at Microsoft
 I'm passionate about creating impactful solutions through code.
 
 * 🌍  I'm based in Washington
-* ✉️  You can contact me at [maniko@codesavanna.org](mailto:maniko@codesavanna.org)
+* ✉️  You can contact me at [maniko@clavr.me](mailto:maniko@clavr.me)
 * 🧠  I'm currently exploriing Agentic AI using LangChain and LangGraph
 * ⚡  I'm secretly Forest Gump ... but don't tell anyone :)
 
